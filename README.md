@@ -25,8 +25,10 @@ A simple command-line Expense Tracker built using Python.
 2. Download `expense_tracker.py`.
 3. Open a terminal in the project folder.
 4. Run:
-python expense_tracker.py
 
+```bash   
+python expense_tracker.py
+```
 
 ## Author
 Prince Kumar Sharma
